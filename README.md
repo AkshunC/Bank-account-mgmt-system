@@ -56,9 +56,7 @@ Required libraries:
 NumPy
 Pickle (built-in module)
 Steps
-Clone the repository:
 
-git clone https://github.com/AnchalDayal/Bank-Account-Management-System---Python.git  
 Install NumPy:
 
 pip install numpy  
